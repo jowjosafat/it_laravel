@@ -112,7 +112,7 @@
       <div class="col-xl-12 ">
         <div class="card">
           <div class="card-header">
-            <h4 class="card-title"> Old All Troubleshooting</h4>
+            <h4 class="card-title"> History All Troubleshooting</h4>
           </div>
           <div class="card-body">
             <div class="table-responsive ">
