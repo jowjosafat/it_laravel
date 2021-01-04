@@ -26,7 +26,7 @@ demo = {
       type: 'line',
 
       data: {
-        labels: ["Des", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"],
+        labels: ["Des 20", "Jan 21", "Feb 21", "Mar 21", "Apr 21", "May 21", "Jun 21", "Jul 21", "Aug 21", "Sep 21", "Oct 21"],
         datasets: [
           {
             borderColor: "#f17e5d",
@@ -120,7 +120,7 @@ demo = {
       
 
       data: {
-        labels: ["Des", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"],
+        labels: ["Des 20", "Jan 21", "Feb 21", "Mar 21", "Apr 21", "May 21", "Jun 21", "Jul 21", "Aug 21", "Sep 21", "Oct 21"],
         datasets: [
           {
             borderColor: "#fcc468",
@@ -294,7 +294,7 @@ demo = {
     };
 
     var speedData = {
-      labels: ["Des", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
+      labels: ["Des 20", "Jan 21", "Feb 21", "Mar 21", "Apr 21", "May 21", "Jun 21", "Jul 21", "Aug 21", "Sep 21", "Oct 21", "Nov 21"],
       datasets: [dataFirst, dataSecond]
     };
 
